@@ -1,4 +1,5 @@
 # PowerAI CSDN比赛小组代码库
+
 ## 1.官方提供的资料文件夹 /docs/officedocs
 
 ##　2.代码库使用说明
@@ -10,5 +11,11 @@ git remote add upstream https://github.com/wangxiaoleiAI/PowerAI
 git fetch upstream
 git add upstream
 ### 2.4.push到自己的代码仓库中
-git push 
+git push
 ### 2.5.代码提交至总代码库总github网页上进行requests
+
+## 3.TensorFlow安装
+### 3.1.官网安装方法
+https://www.tensorflow.org/install/install_linux
+### 3.2.Docker安装过程及编码实例
+http://blog.csdn.net/dream_an/article/details/55520205
