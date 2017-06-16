@@ -14,8 +14,9 @@ git add upstream
 git push
 ### 2.5.代码提交至总代码库总github网页上进行requests
 
-## 3.TensorFlow安装
+## 3.TensorFlow安装说明
 ### 3.1.官网安装方法
 https://www.tensorflow.org/install/install_linux
+(如果无法查看可翻墙https://github.com/getlantern/forum)
 ### 3.2.Docker安装过程及编码实例
 http://blog.csdn.net/dream_an/article/details/55520205
