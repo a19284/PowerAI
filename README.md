@@ -1,5 +1,6 @@
-doc# PowerAI CSDN比赛小组代码库
+# PowerAI CSDN比赛小组代码库
 
+![王小雷](./Docs/aipic.jpg)
 ## 1.官方提供的资料文件夹 /docs/officedocs
 
 ##　2.代码库使用说明
@@ -30,3 +31,5 @@ http://blog.csdn.net/dream_an/article/details/55520205
 IP nimbix@nae-165-254-189-47.jarvice.com
 PS 4u3dUKrEEDFAMF
 ```
+### 3.4 执行ptb_word_lm.py demo
+python ptb_word_lm.py --data_path=/tmp/simple-examples/data/ --model=small
