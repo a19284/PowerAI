@@ -27,6 +27,6 @@ http://blog.csdn.net/dream_an/article/details/55520205
 
 ### 3.3 PowerAI人工智能开发环境
 ```
-IP nae-165-254-189-47.jarvice.com
+IP nimbix@nae-165-254-189-47.jarvice.com
 PS 4u3dUKrEEDFAMF
 ```
